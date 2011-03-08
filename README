@@ -1,0 +1,9 @@
+MediaCat - Merge HTML media files (.css and .js) into one
+
+Config:
+mediacat.ini
+
+Run:
+python mediacat.py
+
+Requires Python 2.7
